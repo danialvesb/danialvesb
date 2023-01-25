@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá! Eu sou  o Daniel Alves👋
 
-<!--
-**danialvesb/danialvesb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alves-bezerra-b91627181/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Daniel Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=danialvesb&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danialvesb)](https://github.com/danialvesb)
+
+
+
+
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Flutter" src=https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white/>
+    <img align="center" alt="Flutter" src=https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white>
+    
+</div><br/>
+
+## Perfil Pessoal
