@@ -5,7 +5,7 @@
 
 ![Daniel Alves GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danialvesb&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danialvesb)](https://github.com/danialvesb)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danialvesb)](https://github.com/danialvesb)
 
 
 
